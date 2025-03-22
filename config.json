@@ -12,26 +12,21 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "LocDev",
+  "nickNameBot": "Flexxa [/]",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100063600331393",
-    "100017168359420"
+    "61566533590967",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61568252515454",
-      "100073421982133",
-      "100090290868001",
-      "61565496604137",
-      "100070876394693",
-      "100078280413822",
-      "100093617270335"
+      "61568252515454"
+      
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
